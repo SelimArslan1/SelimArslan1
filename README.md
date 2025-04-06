@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arda Selim Arslan</h1>
-<h3 align="center">Computer Science Student</h3>
 
----
 
 ### 🎓 About Me
 - 📚 I'm currently pursuing a **B.S. in Computer Science** at **Bilkent University**

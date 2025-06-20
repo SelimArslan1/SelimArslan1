@@ -1,17 +1,9 @@
-<h1 align="center">Hi 👋, I'm Arda Selim Arslan</h1>
-
+# Hi 👋, I'm Arda Selim Arslan
 
 ### 🎓 About Me
 - 📚 I'm currently pursuing a **B.S. in Computer Science** at **Bilkent University**
 - 🌍 Based in **Istanbul, Turkey**
 - 🚀 Passionate about coding, problem-solving
-
----
-
-### 🛠️ Languages and Tools:
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,nodejs,express,mongodb,html,css,git&theme=light" />
-</p>
 
 ---
 
